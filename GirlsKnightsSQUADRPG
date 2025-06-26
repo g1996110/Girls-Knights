@@ -1,16 +1,16 @@
 -- Girls Knights: SQUAD RPG
 GiKnSQRVersion="4.26";
 
-GiKnSQRh1='MHg5NkZBNEM=';
-GiKnSQRh2='MHg5NkZCNjA=';
-GiKnSQRh3='MHg5NzAzMjQ=';
-GiKnSQRh3_1='MHg5MTVDMDQ=';
-GiKnSQRh4='MHhCM0UwQzQ=';
-GiKnSQRClass='YmJi';
+ 	GiKnSQRh1='MHg5NkZBNEM=';
+ 	GiKnSQRh2='MHg5NkZCNjA=';
+ 	GiKnSQRh3='MHg5NzAzMjQ=';
+ 	GiKnSQRh3_1='MHg5MTVDMDQ=';
+ 	GiKnSQRh4='MHhCM0UwQzQ=';
+ 	GiKnSQRClass='YmJi';
 GiKnSQROffset='MHgxMA==';
 GiKnSQRRefine='MH4x';
 GiKnSQREdit='MA==';
-GiKnSQR2Class='YmJi';
+ 	GiKnSQR2Class='YmJi';
 GiKnSQR2Offset='MHgxNA==';
 GiKnSQR2Refine='MA==';
 GiKnSQR2Refine2='MTAwMDA=';
